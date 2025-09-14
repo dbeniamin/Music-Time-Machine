@@ -6,6 +6,7 @@ def get_app_data_dir():
         app_data = os.environ.get("APPDATA", os.path.expanduser("~"))
         app_dir = Path(app_data) / "SpotifyTimeMachine"
     else:
+        # used for local env testing - not used when running the built exe file
         app_dir = Path.home() / ".spotify_time_machine"
     app_dir.mkdir(exist_ok=True)
     return app_dir

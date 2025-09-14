@@ -1,6 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
+# -------------------------
+# SCRAPER FUNCTION 
+# -------------------------
 
 def get_songs(date: str):
     url = f"https://www.billboard.com/charts/hot-100/{date}/"
@@ -22,4 +25,4 @@ def get_songs(date: str):
     if not titles:
         raise Exception("No songs found. Try a different date.")
 
-    return titles[:100]  # ensure max 100 songs
+    return titles[:100] 
