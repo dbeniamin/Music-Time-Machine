@@ -20,12 +20,7 @@
 
 ## 📸 Screenshots / GIFs
 
-*(Add images or GIFs here for visual appeal)*  
-
-![App screenshot](./assets/screenshot1.png)  
-![Playlist creation screenshot](./assets/screenshot2.png)  
-![Optional GIF showing workflow](./assets/demo.gif)  
-
+Comming Soon !!
 ---
 
 ## ⚙️ Installation
@@ -112,17 +107,7 @@ This keeps your runtime environment clean while allowing EXE packaging.
 
 ## 💾 Download EXE (Windows)
 
-Download the latest pre-built Windows executable from [GitHub Releases](https://github.com/USERNAME/MusicTimeMachine/releases):
-
-**MusicTimeMachine_v01.exe**
-
-### Instructions:
-1. Download the `.exe` file.
-2. Double-click to run the app.
-3. Complete the first-time Spotify login as described above (copy-paste OAuth).
-4. Enter a date and click **🎶 Create Playlist**.
-
-⚠️ **Cached token ensures you won't need to repeat login for future uses.**
+Comming Soon !!
 
 ---
 
