@@ -143,6 +143,7 @@ MusicTimeMachine/
 ├─ icon.ico                # App icon
 └─ README.md
 
+  ```
 ---
 
 ## 💡 Notes & Tips
@@ -152,7 +153,7 @@ MusicTimeMachine/
 - **EXE packaging:** Create a standalone Windows EXE using:
   ```bash
   flet pack main.py --name MusicTimeMachine_v01 --icon icon.ico
-  ```
+
 ---
 
 ## 🤝 Contributing
