@@ -107,7 +107,17 @@ This keeps your runtime environment clean while allowing EXE packaging.
 
 ## 💾 Download EXE (Windows)
 
-Comming Soon !!
+Download the latest pre-built Windows executable from [GitHub Releases](https://github.com/dbeniamin/Music-Time-Machine/releases):
+
+**MusicTimeMachine_v01.exe**
+
+### Instructions:
+1. Download the `.exe` file.
+2. Double-click to run the app.
+3. Complete the first-time Spotify login as described above (copy-paste OAuth).
+4. Enter a date and click **🎶 Create Playlist**.
+
+⚠️ **Cached token ensures you won't need to repeat login for future uses.**
 
 ---
 
