@@ -29,7 +29,7 @@ Comming Soon !!
 
 ```bash
 git clone https://github.com/dbeniamin/Music-Time-Machine.git
-cd MusicTimeMachine
+cd Music-Time-Machine
 ```
 
 ### 2. Create a virtual environment
