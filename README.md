@@ -28,7 +28,7 @@ Comming Soon !!
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/dbeniamin/MusicTimeMachine.git
+git clone https://github.com/dbeniamin/Music-Time-Machine.git
 cd MusicTimeMachine
 ```
 
